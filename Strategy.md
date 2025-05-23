@@ -15,6 +15,8 @@ A new major version adding new functionality is being released. You are responsi
 ### **Objective**
 To ensure that existing end-user-facing functionality continues to work as expected after a major refactor of the data and UI layers.
 
+### **Test Website**: [here](https://www.amazon.in/?&tag=googhydrabk1-21&ref=pd_sl_5szpgfto9i_e&adgrpid=155259813593&hvpone=&hvptwo=&hvadid=674893540034&hvpos=&hvnetw=g&hvrand=12482784497165071722&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062097&hvtargid=kwd-64107830&hydadcr=14452_2316413&gad_source=1)
+
 ### **Overall Strategy**
 - **Risk-based regression testing:** Prioritize features that are most critical to the user experience and business.
 - **Automation-first:** Automate repeatable regression scenarios to ensure rapid feedback.
